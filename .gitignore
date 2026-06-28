@@ -1,0 +1,55 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type Checkers
+.mypy_cache/
+.pytype/
+
+# FastAPI / Uvicorn
+*.pid
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# SQLite Database (if used)
+*.db
+*.sqlite3
+
+# Temporary Files
+*.tmp
+*.swp
