@@ -4,7 +4,7 @@ A backend REST API application built using FastAPI and Python as part of my jour
 
 This project demonstrates the implementation of REST APIs using FastAPI, clean project architecture, request validation with Pydantic, service-based business logic, and API documentation through Swagger UI.
 
----
+----
 
 ## Project Overview
 
