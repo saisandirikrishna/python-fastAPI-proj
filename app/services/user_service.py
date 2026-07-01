@@ -15,3 +15,6 @@ def create_user(user):
     users.append(user_data)
 
     return user_data
+
+def delete_user(id):
+    users.remove(id)
