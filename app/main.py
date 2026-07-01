@@ -11,7 +11,7 @@ app.include_router(user_router)
 
 @app.get("/")
 def home():
-    print('home')
+    print('home test')
     return {
         "message": "FastAPI Application Running Successfully and deployed and testing"
     }
